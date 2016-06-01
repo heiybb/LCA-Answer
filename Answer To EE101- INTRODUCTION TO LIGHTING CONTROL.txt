@@ -1,0 +1,63 @@
+﻿Multiple choice question
+In a lighting control system, the function of the power controller is to _____.
+Change the state of the lighting system (ON/OFF or raise/lower)
+
+Multiple choice question
+Which of the below control strategies is enacted using a time clock?
+Scheduling
+
+Multiple choice question
+Which would be better suited for turning the lights OFF or reducing light levels in a classroom when it is not occupied?
+Switching
+
+Multiple choice question
+Which of the following control strategies is more commonly implemented due to energy codes?
+Occupancy sensors
+
+Multiple choice question
+Continuous dimming would be more appropriate than switching in which application?
+Daylight harvesting in an open office
+
+Multiple choice question
+Occupancy sensors are best suited to which of the below types of spaces?
+Intermittently occupied spaces with lighting that does not have to be ON all day
+
+Multiple choice question
+Which of the following is a lighting controls-related LEED provision that can lead to LEED points?
+All of the above
+
+Multiple choice question
+Which would be better suited for turning the lights OFF or reducing light levels in an occupied open office?
+Dimming
+
+Multiple choice question
+Manual bilevel switching may be implemented via configuring a lighting system for control of _____.		  
+A/B control of alternate ballasts, fixtures or fixture rows or output levels of a light level switching ballast
+
+Multiple choice question
+Most commercial building energy codes require that _____.
+Lighting be turned OFF when not in use
+
+Multiple choice question
+Very small, precise control zones would likely increase _____.
+Control resolution but also installed cost
+
+Multiple choice question
+A lighting control zone is a _____.
+Group of light sources simultaneously controlled by a single controller
+
+Multiple choice question
+Which of the below control strategies is enacted using a photosensor?
+Daylight harvesting
+
+True/false question
+Studies such as the 2004 Light Right Consortium office lighting field study suggest that occupants with personal dimming control are more likely to be satisfied with their lighting.
+True
+
+True/false question
+Mood setting is an example of lighting control flexibility being used to support energy management needs.
+False
+
+Multiple choice question
+A school corridor configured for two possible lighting states (ON/OFF) must be automatically turned OFF when it is not being used. The corridor is used intermittently, but must stay ON for safety and security reasons. Which of the below strategies would be most appropriate?
+Time scheduling
